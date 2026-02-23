@@ -5,8 +5,11 @@
 
 RISC-V CPU 참고 소스
 https://github.com/majidale/RISC-V-Single-Cycle-
+
 [riscv-spec.pdf](https://github.com/user-attachments/files/25477771/riscv-spec.pdf)
+
 [riscv-unprivileged.pdf](https://github.com/user-attachments/files/25477781/riscv-unprivileged.pdf)
+
 [Riscv32i Instruction Table.docx](https://github.com/user-attachments/files/25477784/Riscv32i.Instruction.Table.docx)
 
 
